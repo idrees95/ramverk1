@@ -30,6 +30,16 @@ return [
                         "url" => "redovisning/kmom02",
                         "title" => "Redovisning för kmom02.",
                     ],
+                    [
+                        "text" => "Kmom03",
+                        "url" => "redovisning/kmom03",
+                        "title" => "Redovisning för kmom03.",
+                    ],
+                    [
+                        "text" => "Kmom04",
+                        "url" => "redovisning/kmom04",
+                        "title" => "Redovisning för kmom04.",
+                    ],
                 ],
             ],
         ],
@@ -49,9 +59,23 @@ return [
             "title" => "Verktyg och möjligheter för utveckling.",
         ],
         [
-            "text" => "IP validate",
-            "url" => "validate",
-            "title" => "Verktyg och möjligheter för utveckling.",
+            "text" => "Ip validator",
+            "url" => "ipcontroller",
+            "title" => "Verktyg för att validera din ip adress",
+            "submenu" => [
+                "items" => [
+                    [
+                        "text" => "ipcontroller",
+                        "url" => "ipcontroller",
+                        "title" => "Validera ip adress ",
+                    ],
+                    [
+                        "text" => "ipcontrollerJson",
+                        "url" => "jsoncontroller",
+                        "title" => "validaera ip adress och visa resultatet i json format",
+                    ],
+                ],
+            ],
         ],
     ],
 ];

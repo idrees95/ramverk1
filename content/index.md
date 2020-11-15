@@ -4,7 +4,7 @@ title: "Me-Sida"
 Min me-sida i kursen ramverk1
 =========================
 
-[FIGURE src="image/me.jpg?w=500" class="right" caption="Idrees"]
+[FIGURE src="image/me.JPG?w=500" class="right" caption="Idrees"]
 
 Jag heter Idrees Safi och kommer ursprungligen från Kabul, Afghanistan.
 Jag är 24 år gammal, bor i fina Karlskrona tillsammans med min storebror, flyttade hit i augusti 2019 och trivs här jättebra i den här lilla staden.
